@@ -1,7 +1,8 @@
-# Aula 01 - Introdução ao Javaserver Faces
+# Módulo Avançado Curso: Técnico IMD
 
-## Módulo Avançado Curso: Técnico IMD  
+## Aula 01 - Introdução ao Javaserver Faces
 
+ Aplicação “HelloWorld” para você entender quais as bibliotecas e a estrutura de um projeto desenvolvido com esse framework.
 
 * Conhecer qual é a estrutura de uma aplicação básica com JSF.
 
