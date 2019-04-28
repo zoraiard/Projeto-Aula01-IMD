@@ -30,14 +30,14 @@ Poderemos, também, encontrar um ou mais arquivos de configuração da aplicação JS
 
 A principal característica do JSF é que o mesmo possibilita a separação clara entre o comportamento e a apresentação nas aplicações web. Essa separação permite que o desenvolvimento e a manutenção da aplicação web sejam realizados de maneira mais fácil, o que corresponde a menos retrabalho.
 
-##Ciclo de Vida
+## Ciclo de Vida
 
 Agora que você já conhece o que é o JSF, vamos conhecer e entender o ciclo de vida de uma requisição para uma aplicação desenvolvida com esse framework e como sua resposta é gerada. O ciclo de vida do JSF, apresentado na Figura 2, é composto pelas seguintes fases:
 
 
-* **1**. restaurar a visualização;*
-* **2**. aplicar valores da requisição;*
-* **3**. processar as validações;*
-* **4**.atualizar os valores no modelo;*
-* **5**. invocar a aplicação;*
-* **6**. renderizar a resposta.*
+ **1**. restaurar a visualização;
+ **2**. aplicar valores da requisição;
+ **3**. processar as validações;
+ **4**.atualizar os valores no modelo;
+ **5**. invocar a aplicação;
+ **6**. renderizar a resposta.
