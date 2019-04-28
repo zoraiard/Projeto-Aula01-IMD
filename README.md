@@ -36,8 +36,13 @@ Agora que você já conhece o que é o JSF, vamos conhecer e entender o ciclo de vi
 
 
  **1**. restaurar a visualização;
+ 
  **2**. aplicar valores da requisição;
+ 
  **3**. processar as validações;
+ 
  **4**.atualizar os valores no modelo;
+ 
  **5**. invocar a aplicação;
+ 
  **6**. renderizar a resposta.
